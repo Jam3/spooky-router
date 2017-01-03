@@ -21,7 +21,7 @@
     "lodash": "~2.4.1",
     "mixes": "~1.0.4",
     "dom-events": "~0.1.1",
-    "spooky-view-manager": "^1.0.0",
+    "spooky-view-manager": "~1.2.10",
     "urlresolve": "0.0.6",
     "route-parser": "0.0.2",
     "signals": "~1.0.0",
